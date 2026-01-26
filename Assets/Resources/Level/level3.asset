@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -854373639, guid: 5e0d762fa24a6e94b86246271b8a8481, type: 3}
   m_Name: level3
   m_EditorClassIdentifier: RexCore.dll::Rex.GameLevelData
-  levelName: 
-  levelID: 0
+  levelName: level3
+  levelID: 2
   description: 
-  icon: {fileID: 0}
+  icon: {fileID: 1649384923, guid: a03a0bf8cd01b8e40b51903d34afb41b, type: 3}
