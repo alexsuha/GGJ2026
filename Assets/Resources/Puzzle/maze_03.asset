@@ -9,11 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 533305904, guid: 5e0d762fa24a6e94b86246271b8a8481, type: 3}
-  m_Name: cg_end_01
-  m_EditorClassIdentifier: RexCore.dll::Rex.CGImageData
-  cgImageID: 4
-  image_path: story/story_end1
-  effectType: 0
-  defaultRatio: 1.5
-  effectDuration: 3
+  m_Script: {fileID: 252480711, guid: 5e0d762fa24a6e94b86246271b8a8481, type: 3}
+  m_Name: maze_03
+  m_EditorClassIdentifier: RexCore.dll::Rex.MazeData
+  mazeID: 2
+  width: 15
+  height: 15
+  storyID: 0
