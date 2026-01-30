@@ -22,6 +22,8 @@ MonoBehaviour:
   m_Scenes:
   - m_enabled: 1
     m_path: Assets/Scenes/GameStart.unity
+  - m_enabled: 1
+    m_path: Assets/Resources/scene/puzzle.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings: []
