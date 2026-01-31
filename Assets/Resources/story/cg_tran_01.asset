@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 533305904, guid: 5e0d762fa24a6e94b86246271b8a8481, type: 3}
-  m_Name: cg_img_02
+  m_Name: cg_tran_01
   m_EditorClassIdentifier: RexCore.dll::Rex.CGImageData
-  cgImageID: 1
-  image_path: story/cg_2
+  cgImageID: 4
+  image_path: story/transfer
   effectType: 1
   defaultRatio: 1.5
   effectDuration: 3
