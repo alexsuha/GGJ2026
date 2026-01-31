@@ -16,4 +16,4 @@ MonoBehaviour:
   cgImages:
   - {fileID: 11400000, guid: 9f5e990c7d5890a4da31d4a4e25d3a49, type: 2}
   audio_path: story/main_v2
-  puzzleID: 1
+  puzzleID: -2
