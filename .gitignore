@@ -32,3 +32,4 @@ UserSettings/
 *.apk
 *.exe
 *.app
+.vsconfig
