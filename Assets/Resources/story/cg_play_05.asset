@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 63263502, guid: 5e0d762fa24a6e94b86246271b8a8481, type: 3}
   m_Name: cg_play_05
   m_EditorClassIdentifier: RexCore.dll::Rex.CGPlayData
-  cgID: 1
+  cgID: 4
   cgImages:
   - {fileID: 11400000, guid: 9f5e990c7d5890a4da31d4a4e25d3a49, type: 2}
   audio_path: story/main_v2
